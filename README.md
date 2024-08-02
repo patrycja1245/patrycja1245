@@ -8,9 +8,6 @@
 🌷 Conducting research on the capabilities of the LDA algorithm in RStudio for my engineering thesis.<br/>
 
 <div align="left"> 
-  <a href="patrycjarobak1612@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://linkedin.com/in/patrycja-robak-047a66297/?jobid=1234" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
