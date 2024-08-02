@@ -1,5 +1,7 @@
 #  Hi, I'm Patrycja!
 
+### Aspiring data analyst, studying applied mathematics 🔭 
+
 👩🏻‍🎓 Studying applied mathematics with a specialization in data analysis.<br/>
 👩🏻‍💻 Interested in data science and machine learning.<br/>
 📊 Currently interning in the corporate department at mBank.<br/>
