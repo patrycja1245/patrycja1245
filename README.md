@@ -20,5 +20,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Check+out+my+portfolio!;" />
   
 #   Projects
-🌱  Database for gastronomy management.
+🌱  Database for gastronomy management.<br/>
+🌷  Evaluation of Vehicle Fuel Efficiency.<br/>
+🌿  Predictive Modeling of Adolescent Alcohol Use.<br/>
 
